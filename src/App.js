@@ -8,13 +8,13 @@ export default function App() {
   return (
     <div className="App">
       <>
-      <Header />
+      <Header title="Integer Counter" />
       <hr />
       <Counter />
 
      <hr />
 
-      <Footer />
+      <Footer copyright="@copyright. All rights reserved" />
       </>
       
 
